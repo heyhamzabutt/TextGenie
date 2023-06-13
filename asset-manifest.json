@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextGenie/static/css/main.291daf98.css",
+    "main.js": "/TextGenie/static/js/main.13d148f5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextGenie/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TextGenie/index.html",
+    "main.291daf98.css.map": "/TextGenie/static/css/main.291daf98.css.map",
+    "main.13d148f5.js.map": "/TextGenie/static/js/main.13d148f5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextGenie/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.291daf98.css",
+    "static/js/main.13d148f5.js"
+  ]
+}
