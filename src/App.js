@@ -41,7 +41,7 @@ function App() {
         <Routes>
                 <Route path="/about" element={<About />} />
  
- <Route path="/" element={<TextForm SampleText="Enter Text Area" Theme={theme}/>} />
+ <Route path="/TextGenie" element={<TextForm SampleText="Enter Text Area" Theme={theme}/>} />
 
                  </Routes>
 
